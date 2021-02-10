@@ -10,7 +10,7 @@ import org.testng.annotations.Test;
 
 public class FTest {
 	
-WebDriver driver;
+public WebDriver driver;
 	
 	@BeforeSuite
 	public void setup() {
