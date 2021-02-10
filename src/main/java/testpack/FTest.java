@@ -34,7 +34,7 @@ WebDriver driver;
 	
 	@AfterSuite
 	public void teardown() {
-		driver.quit();
+		driver.quit();//Branch code updated
 	}
 
 }
